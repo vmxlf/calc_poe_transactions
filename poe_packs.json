@@ -1,4 +1,16 @@
 [
+  { "name": "Trarthan Executioner Supporter Pack", "price": 30},
+  { "name": "Cruel Trarthan Executioner Supporter Pack", "price": 60},
+  { "name": "Merciless Trarthan Executioner Supporter Pack", "price": 90},
+  { "name": "Justice Supporter Pack", "price": 30},
+  { "name": "Apostle of Justice Supporter Pack", "price": 60},
+  { "name": "Herald of Justice Supporter Pack", "price": 90},
+  { "name": "트라투스 사형 집행자 서포터 팩", "price": 30},
+  { "name": "잔혹한 트라투스 사형 집행자 서포터 팩", "price": 60},
+  { "name": "무자비한 트라투스 사형 집행자 서포터 팩", "price": 90},
+  { "name": "정의 서포터 팩", "price": 30},
+  { "name": "정의의 사도 서포터 팩", "price": 60},
+  { "name": "정의의 전령 서포터 팩", "price": 90},  
   { "name": "Cryptkeeper Supporter Pack", "price": 30},
   { "name": "Hallowed Cryptkeeper Supporter Pack", "price": 60},
   { "name": "Sacred Cryptkeeper Supporter Pack", "price": 90},
@@ -440,3 +452,4 @@
   { "name": "Gold", "price": 250},
   { "name": "Diamond", "price": 1000}
 ]
+
